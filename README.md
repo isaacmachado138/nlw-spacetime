@@ -5,7 +5,7 @@
 ## 🖥️ Projeto
 Esse é um projeto web Responsivo de uma cápsula do tempo para exibir memórias em um linha do tempo.
 
-## 🚀 Tcnologias
+## 🚀 Tecnologias
 Esse prjeto foi desenvolvido durante o NLW da RocketSeat com as seguintes tecnologias:
 
 - React
