@@ -9,6 +9,8 @@ Esse é um projeto web Responsivo de uma cápsula do tempo para exibir memórias
 Esse prjeto foi desenvolvido durante o NLW da RocketSeat com as seguintes tecnologias:
 
 - React
+- React Native
+- NextJs
 - NodeJS
-- HTML e CSS
-- GIT
+
+  Além das bibliotecas OAuth, Zod, Axios, Prisma, Dotenv, Tailwindcss e Expo.
